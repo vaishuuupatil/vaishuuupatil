@@ -1,12 +1,12 @@
-- 👋 Hi, I’m vaishnavi
-- 👀 I’m interested in ...solveing puzzle in logical way
-- 🌱 I’m currently learning ...in 2rd of B. E at ssgmce in cse branch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Vaishnavi Patil
 
-<!---
-vaishuuupatil/vaishuuupatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently pursuing my **B.E. in Computer Science and Engineering** at **SSGMCE**.  
+💡 I’m interested in **solving logical puzzles**, exploring **data science**, and learning how technology can make problem-solving easier.  
+🤝 I’m looking to collaborate on **open-source projects** and innovative ideas in **machine learning and data analytics**.  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavi-patil/) | [GitHub](https://github.com/vaishuuupatil)  
+😄 Pronouns: She/Her  
+⚡ Fun fact: I love turning real-world problems into logical code challenges!
+
+---
+
+✨ _“Keep learning, keep building, and let your code speak louder than words.”_ ✨
